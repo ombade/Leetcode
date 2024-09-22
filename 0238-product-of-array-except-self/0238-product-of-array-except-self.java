@@ -24,3 +24,4 @@ class Solution {
         return ans;
     }
 }
+// https://leetcode.com/problems/product-of-array-except-self/solutions/1342916/3-minute-read-mimicking-an-interview
