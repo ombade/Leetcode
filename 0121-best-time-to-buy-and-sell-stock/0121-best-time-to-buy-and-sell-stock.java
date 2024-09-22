@@ -8,5 +8,5 @@ class Solution {
             profit = Math.max(profit , i- minelement);
         } return profit;
     }
-   
+//    https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/3914105/most-optimized-solution-easy-to-understand-c-java-python
 }
