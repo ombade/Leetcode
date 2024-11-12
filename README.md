@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ombade/Leetcode/tree/master/0009-palindrome-number) |
 | [0371-sum-of-two-integers](https://github.com/ombade/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
