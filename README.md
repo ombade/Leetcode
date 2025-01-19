@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0053-maximum-subarray](https://github.com/ombade/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ombade/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ombade/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/ombade/Leetcode/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0011-container-with-most-water](https://github.com/ombade/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ombade/Leetcode/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/ombade/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0392-is-subsequence](https://github.com/ombade/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ombade/Leetcode/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ombade/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
