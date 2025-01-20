@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ombade/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ombade/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ombade/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/ombade/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
