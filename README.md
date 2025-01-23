@@ -63,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ombade/Leetcode/tree/master/0011-container-with-most-water) |
+| [2032-largest-odd-number-in-string](https://github.com/ombade/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ombade/Leetcode/tree/master/0009-palindrome-number) |
 | [0371-sum-of-two-integers](https://github.com/ombade/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [2032-largest-odd-number-in-string](https://github.com/ombade/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ombade/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/ombade/Leetcode/tree/master/0392-is-subsequence) |
+| [2032-largest-odd-number-in-string](https://github.com/ombade/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
