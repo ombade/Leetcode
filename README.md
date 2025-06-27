@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0238-product-of-array-except-self](https://github.com/ombade/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0792-binary-search](https://github.com/ombade/Leetcode/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ombade/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ombade/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ombade/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/ombade/Leetcode/tree/master/0792-binary-search) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ombade/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0392-is-subsequence](https://github.com/ombade/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/ombade/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/ombade/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ombade/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
