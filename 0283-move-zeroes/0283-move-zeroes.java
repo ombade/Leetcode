@@ -16,6 +16,8 @@ class Solution {
     //         nums[k]= arr[k];
     //     }
     // }
+    // https://github.com/AlgoMaster-io/leetcode-solutions/blob/main/java/move-zeroes.md
+
     public void moveZeroes(int[] nums)
     {
         int last = 0;
