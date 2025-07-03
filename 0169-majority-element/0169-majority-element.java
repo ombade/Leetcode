@@ -1,4 +1,5 @@
 class Solution {
+   // https://github.com/AlgoMaster-io/leetcode-solutions/blob/main/java/majority-element.md
     // brute force approch 
     // public int majorityElement(int[] nums) {
     //     Arrays.sort(nums);
@@ -20,6 +21,7 @@ class Solution {
     //     return -1;
         
     // }
+    // my approch
     public int majorityElement(int[] nums) {
         Arrays.sort(nums);
         int cnt = 1;
