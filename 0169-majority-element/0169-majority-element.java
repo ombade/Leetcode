@@ -20,28 +20,46 @@ class Solution {
     //     return -1;
         
     // }
-     public int majorityElement(int[] nums) {
-        int cnt = 0;
-        int el=0;
-        for(int i = 0; i< nums.length; i++)
+    public int majorityElement(int[] nums) {
+        Arrays.sort(nums);
+        int cnt = 1;
+        int n = nums.length;
+        if(n ==1) return nums[0];
+        for(int i =1; i< n ; i++)
         {
-            if(cnt == 0)
+            if(nums[i]==nums[i-1])
             {
-                cnt =1;
-                el = nums[i];
+                cnt++;
+                if(cnt > n/2)return nums[i];
             }
-            else if(nums[i] == el) cnt++;
             else
-                cnt--;
+                cnt= 1;
         }
-        cnt = 0;
-        for(int j =0 ; j< nums.length ; j++)
-        {
-            if(nums[j] == el) cnt++;
+        return -1;
+    }
+    // optmize approch 
+    //  public int majorityElement(int[] nums) {
+    //     int cnt = 0;
+    //     int el=0;
+    //     for(int i = 0; i< nums.length; i++)
+    //     {
+    //         if(cnt == 0)
+    //         {
+    //             cnt =1;
+    //             el = nums[i];
+    //         }
+    //         else if(nums[i] == el) cnt++;
+    //         else
+    //             cnt--;
+    //     }
+    //     cnt = 0;
+    //     for(int j =0 ; j< nums.length ; j++)
+    //     {
+    //         if(nums[j] == el) cnt++;
 
-        }
-        if(cnt > nums.length/2) return el;
-        else 
-            return -1;
-     }
+    //     }
+    //     if(cnt > nums.length/2) return el;
+    //     else 
+    //         return -1;
+    //  }
 }
