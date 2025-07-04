@@ -1,12 +1,14 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int minelement = 999999;
-        int profit = 0;
-        for(int i : prices)
-        {
-            minelement = Math.min(i, minelement);
-            profit = Math.max(profit , i- minelement);
-        } return profit;
+        int minPrice = Integer.MAX_VALUE;
+        int maxProfit = 0;
+        for (int price : prices) {
+            if (price < minPrice) {
+                minPrice = price;
+            } else if (price - minPrice > maxProfit) {
+                maxProfit = price - minPrice;
+            }
+        }
+        return maxProfit;
     }
-//    https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/3914105/most-optimized-solution-easy-to-understand-c-java-python
 }
