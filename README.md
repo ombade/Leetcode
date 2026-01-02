@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0643-maximum-average-subarray-i](https://github.com/ombade/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/ombade/Leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0948-sort-an-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ombade/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ombade/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/ombade/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ombade/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
