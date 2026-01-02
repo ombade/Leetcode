@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0141-linked-list-cycle](https://github.com/ombade/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ombade/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ombade/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ombade/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0088-merge-sorted-array](https://github.com/ombade/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ombade/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ombade/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ombade/Leetcode/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ombade/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/ombade/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/ombade/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ombade/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ombade/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/ombade/Leetcode/tree/master/1894-merge-strings-alternately) |
