@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0392-is-subsequence](https://github.com/ombade/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/ombade/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/ombade/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3110-score-of-a-string](https://github.com/ombade/Leetcode/tree/master/3110-score-of-a-string) |
 ## Counting
 |  |
 | ------- |
