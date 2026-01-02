@@ -7,7 +7,7 @@ class Solution {
             feq[s.charAt(i)-'a']++;
             feq[t.charAt(i)-'a']--;
         }
-        for(int i =0 ; i< 26 ; i++)
+        for(int i =0 ; i< feq.length ; i++)
         {
             if(feq[i] != 0)return false;
         }
