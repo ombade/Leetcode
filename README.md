@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0238-product-of-array-except-self](https://github.com/ombade/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ombade/Leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/ombade/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/ombade/Leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/ombade/Leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0948-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ombade/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ombade/Leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/ombade/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ombade/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/ombade/Leetcode/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
