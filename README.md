@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0705-design-hashset](https://github.com/ombade/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ombade/Leetcode/tree/master/0706-design-hashmap) |
 | [0792-binary-search](https://github.com/ombade/Leetcode/tree/master/0792-binary-search) |
+| [0912-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0948-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ombade/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ombade/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0169-majority-element](https://github.com/ombade/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ombade/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ombade/Leetcode/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0053-maximum-subarray](https://github.com/ombade/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ombade/Leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |
@@ -158,22 +161,27 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0948-sort-an-array) |
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0948-sort-an-array) |
 ## Sliding Window
 |  |
