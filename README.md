@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0643-maximum-average-subarray-i](https://github.com/ombade/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/ombade/Leetcode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/ombade/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ombade/Leetcode/tree/master/0706-design-hashmap) |
 | [0792-binary-search](https://github.com/ombade/Leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0948-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ombade/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0217-contains-duplicate](https://github.com/ombade/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ombade/Leetcode/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/ombade/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ombade/Leetcode/tree/master/0706-design-hashmap) |
 ## Sorting
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0141-linked-list-cycle](https://github.com/ombade/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ombade/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/ombade/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ombade/Leetcode/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ombade/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/ombade/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ombade/Leetcode/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -203,4 +207,5 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/ombade/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ombade/Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
