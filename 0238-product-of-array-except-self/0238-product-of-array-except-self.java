@@ -1,42 +1,20 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
         int n = nums.length;
-        int product = 1;
-        int zeroCount = 0;
+        int[] result = new int[n];
 
-        // First pass: calculate product of non-zero numbers and count zeros
+        int prefix = 1;
         for (int i = 0; i < n; i++) {
-            if (nums[i] == 0) {
-                zeroCount++;
-            } else {
-                product *= nums[i];
-            }
+            result[i] = prefix;
+            prefix *= nums[i];
         }
 
-        int[] ans = new int[n];
-
-        // If more than one zero → all results are zero
-        if (zeroCount > 1) {
-            return ans; // already all zeros
+        int suffix = 1;
+        for (int i = n - 1; i >= 0; i--) {
+            result[i] *= suffix;
+            suffix *= nums[i];
         }
 
-        // If exactly one zero → only the position of zero gets product, rest are 0
-        if (zeroCount == 1) {
-            for (int i = 0; i < n; i++) {
-                if (nums[i] == 0) {
-                    ans[i] = product;
-                } else {
-                    ans[i] = 0;
-                }
-            }
-            return ans;
-        }
-
-        // If no zero → safe to divide
-        for (int i = 0; i < n; i++) {
-            ans[i] = product / nums[i];
-        }
-
-        return ans;
+        return result;
     }
 }
