@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0283-move-zeroes](https://github.com/ombade/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ombade/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ombade/Leetcode/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/ombade/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/ombade/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ombade/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0242-valid-anagram](https://github.com/ombade/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ombade/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ombade/Leetcode/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/ombade/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/ombade/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/ombade/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ombade/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
