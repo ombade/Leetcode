@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1929-concatenation-of-array](https://github.com/ombade/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ombade/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ombade/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3799-word-squares-ii](https://github.com/ombade/Leetcode/tree/master/3799-word-squares-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0242-valid-anagram](https://github.com/ombade/Leetcode/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0948-sort-an-array) |
+| [3799-word-squares-ii](https://github.com/ombade/Leetcode/tree/master/3799-word-squares-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [2032-largest-odd-number-in-string](https://github.com/ombade/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ombade/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3110-score-of-a-string](https://github.com/ombade/Leetcode/tree/master/3110-score-of-a-string) |
+| [3799-word-squares-ii](https://github.com/ombade/Leetcode/tree/master/3799-word-squares-ii) |
 ## Counting
 |  |
 | ------- |
@@ -226,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ombade/Leetcode/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [3799-word-squares-ii](https://github.com/ombade/Leetcode/tree/master/3799-word-squares-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3799-word-squares-ii](https://github.com/ombade/Leetcode/tree/master/3799-word-squares-ii) |
 <!---LeetCode Topics End-->
