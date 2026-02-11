@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0371-sum-of-two-integers](https://github.com/ombade/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/ombade/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ombade/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/ombade/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
 |  |
 | ------- |
