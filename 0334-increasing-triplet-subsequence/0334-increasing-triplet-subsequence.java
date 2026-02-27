@@ -1,26 +1,18 @@
 class Solution {
     public boolean increasingTriplet(int[] nums) {
-        // int n1 = 9999;
-        // int n2 = 9999;
-        // for(int num :nums)
-        // {
-        //     if(n1 < n2 && n2 < num)return true;
-        //     n1= n2;
-        //     n2 = num;
-
-        // }
-        // return false;
-        int first = Integer.MAX_VALUE;
-        int second = Integer.MAX_VALUE;
-        
-        for (int num : nums) {
-            if (num <= first) {
-                first = num;
-            } else if (num <= second) {
-                second = num;
-            } else {
+        int n1 = Integer.MAX_VALUE;
+        int n2 = Integer.MAX_VALUE;
+        for(int num :nums)
+        {
+            if(num <= n1)n1 = num;
+            else if(num <= n2)n2= num;
+            else    
                 return true;
-            }
+
+            // if(n1 < n2 && n2 < num)return true;
+            // n1= n2;
+            // n2 = num;
+
         }
         return false;
     }
