@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0217-contains-duplicate](https://github.com/ombade/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ombade/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ombade/Leetcode/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/ombade/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ombade/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/ombade/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/ombade/Leetcode/tree/master/0682-baseball-game) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ombade/Leetcode/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/ombade/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [2032-largest-odd-number-in-string](https://github.com/ombade/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ombade/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Math
