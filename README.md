@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0053-maximum-subarray](https://github.com/ombade/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ombade/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/ombade/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/ombade/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0948-sort-an-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ombade/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/ombade/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/ombade/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Linked List
 |  |
