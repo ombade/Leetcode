@@ -1,13 +1,19 @@
 class Solution {
     public int rangeBitwiseAnd(int m, int n) {
-        int shift = 0;
-        while(m != n)
+        // int shift = 0;
+        // while(m != n)
+        // {
+        //     m = m >> 1;
+        //     n= n >> 1;
+        //     shift++;
+        // }
+        // return m << shift;
+
+        while(n > m)
         {
-            m = m >> 1;
-            n= n >> 1;
-            shift++;
+            n = n & (n-1);
         }
-        return m << shift;
+        return n;
         // int result = left;
         // for(int i = left+1 ; i<= right ; i++)
         // {
