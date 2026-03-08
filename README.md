@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0912-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0948-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ombade/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1512-number-of-good-pairs](https://github.com/ombade/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ombade/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/ombade/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ombade/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0705-design-hashset](https://github.com/ombade/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ombade/Leetcode/tree/master/0706-design-hashmap) |
 | [1189-maximum-number-of-balloons](https://github.com/ombade/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/ombade/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0009-palindrome-number](https://github.com/ombade/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ombade/Leetcode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/ombade/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1512-number-of-good-pairs](https://github.com/ombade/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/ombade/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ombade/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ombade/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0169-majority-element](https://github.com/ombade/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ombade/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/ombade/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/ombade/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ombade/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Heap (Priority Queue)
 |  |
