@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0347-top-k-frequent-elements](https://github.com/ombade/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/ombade/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ombade/Leetcode/tree/master/0706-design-hashmap) |
+| [1189-maximum-number-of-balloons](https://github.com/ombade/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0242-valid-anagram](https://github.com/ombade/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ombade/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ombade/Leetcode/tree/master/0392-is-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/ombade/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/ombade/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/ombade/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/ombade/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0169-majority-element](https://github.com/ombade/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ombade/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/ombade/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ombade/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Heap (Priority Queue)
 |  |
