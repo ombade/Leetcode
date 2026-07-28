@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ombade/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/ombade/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ombade/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ombade/Leetcode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/ombade/Leetcode/tree/master/0371-sum-of-two-integers) |
