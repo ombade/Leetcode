@@ -1,21 +1,33 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
+        // Brute force approch 
         // int n = nums.length;
-        // for(int i =0 ; i< n ;i++)
+        // for(int i = 0; i< n ; i++)
         // {
-        //     for(int j =i+1 ; j <n ;j++)
+        //     for (int j = 0; j< n ; j++)
         //     {
-        //         if(nums[i]+nums[j] == target)return new int[] {i,j};
+        //         if(nums[i] + nums[j] == target && i != j)
+        //         {
+        //             return new int[]  {i,j};
+        //         }
         //     }
         // }
-        // return new int[] {};
-        Map<Integer , Integer>mp =new  HashMap<>();
-        for(int i = 0 ; i< nums.length ; i++)
+        // return new int[] {-1,-1};
+        int n = nums.length;
+        HashMap<Integer , Integer> mp = new HashMap<>();
+        for(int i = 0; i< n ;i++)
         {
-            int val = target - nums[i];
-            if(mp.containsKey(val))return new int[] {mp.get(val), i};
-            mp.put(nums[i], i);
+            int x = target - nums[i];
+            if(mp.containsKey(x))
+            {
+                return new int [] {i, mp.get(x)};
+            }
+            else
+            {
+                mp.put(nums[i], i);
+            }
         }
-        return new int[]{};
+        return new int [] {-1,-1};
+        
     }
 }
