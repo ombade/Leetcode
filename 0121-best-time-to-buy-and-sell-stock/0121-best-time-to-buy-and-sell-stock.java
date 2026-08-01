@@ -1,24 +1,17 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        // int n = prices.length;
-        // int profit = -99999;
-        // for(int i = 0;i< n ; i++)
-        // {
-        //     for(int j = i ; j<n;j++ )
-        //     {
-        //         profit = Math.max(profit , (prices[j]- prices[i]));
-        //     }
-        // }
-        // return profit;
-        int n  = prices.length;
-        int minby = prices[0];
-        int profit = -9999;
-        for(int i = 0; i< n ; i++)
+        int minday = 0;
+        int maxprofit = -99999;
+        int buy = 99999;
+        int sell = -99999;
+        for(int i  =0 ; i< prices.length ; i++)
         {
-            minby = Math.min(minby , prices[i]);
-            profit = Math.max(profit , (prices[i]-minby));
+            buy = Math.min(buy , prices[i]);
+            // sell = Math.max(sell , prices[i]);
+            maxprofit = Math.max(maxprofit,prices[i] -buy);
+
         }
-        return profit;
+        return maxprofit;
         
     }
 }
