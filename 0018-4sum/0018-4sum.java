@@ -21,6 +21,8 @@ class Solution {
                     else{
                         List<Integer> ans = new ArrayList<>();
                         Collections.addAll(ans , nums[i], nums[j], nums[low], nums[high]);
+                        while (low < high && nums[low] == nums[low + 1]) low++;
+                        while (low < high && nums[high] == nums[high - 1]) high--;
 
                     temp.add(ans);
                     high--;
