@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0560-subarray-sum-equals-k](https://github.com/ombade/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ombade/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/ombade/Leetcode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/ombade/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/ombade/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ombade/Leetcode/tree/master/0706-design-hashmap) |
 | [0792-binary-search](https://github.com/ombade/Leetcode/tree/master/0792-binary-search) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ombade/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ombade/Leetcode/tree/master/0162-find-peak-element) |
+| [0704-binary-search](https://github.com/ombade/Leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/ombade/Leetcode/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ombade/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
