@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0875-koko-eating-bananas](https://github.com/ombade/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0948-sort-an-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ombade/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ombade/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1512-number-of-good-pairs](https://github.com/ombade/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ombade/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0704-binary-search](https://github.com/ombade/Leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/ombade/Leetcode/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ombade/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ombade/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ombade/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
