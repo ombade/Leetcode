@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0011-container-with-most-water](https://github.com/ombade/Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/ombade/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ombade/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/ombade/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ombade/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ombade/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Math
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0189-rotate-array](https://github.com/ombade/Leetcode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/ombade/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1512-number-of-good-pairs](https://github.com/ombade/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1903-largest-odd-number-in-string](https://github.com/ombade/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ombade/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ombade/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ombade/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1189-maximum-number-of-balloons](https://github.com/ombade/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/ombade/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/ombade/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/ombade/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ombade/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ombade/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3110-score-of-a-string](https://github.com/ombade/Leetcode/tree/master/3110-score-of-a-string) |
