@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ombade/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ombade/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ombade/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ombade/Leetcode/tree/master/0190-reverse-bits) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ombade/Leetcode/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/ombade/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ombade/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ombade/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/ombade/Leetcode/tree/master/0705-design-hashset) |
@@ -266,12 +268,14 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ombade/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/ombade/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ombade/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/ombade/Leetcode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
@@ -364,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ombade/Leetcode/tree/master/0056-merge-intervals) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ombade/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
