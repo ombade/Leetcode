@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0141-linked-list-cycle](https://github.com/ombade/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ombade/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ombade/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/ombade/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0705-design-hashset](https://github.com/ombade/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ombade/Leetcode/tree/master/0706-design-hashmap) |
 ## Recursion
