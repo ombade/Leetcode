@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0392-is-subsequence](https://github.com/ombade/Leetcode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/ombade/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/ombade/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ombade/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ombade/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ombade/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0328-odd-even-linked-list](https://github.com/ombade/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0705-design-hashset](https://github.com/ombade/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ombade/Leetcode/tree/master/0706-design-hashmap) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ombade/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
