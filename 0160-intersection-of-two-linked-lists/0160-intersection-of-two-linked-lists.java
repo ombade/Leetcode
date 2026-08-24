@@ -1,22 +1,26 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int x) {
- *         val = x;
- *         next = null;
- *     }
- * }
- */
 public class Solution {
-    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        
-        ListNode ptrA = headA, ptrB = headB;
-    while (ptrA != ptrB) { // loop until we found the first common node
-        ptrA = ptrA == null ? headB : ptrA.next; // once we're done with A, move to B
-        ptrB = ptrB == null ? headA : ptrB.next; // once we're done with B, move to A
-	}
-	return ptrA;
+    public ListNode getIntersectionNode(ListNode head1, ListNode head2) {
+        if (head1 == null || head2 == null) {
+            return null;
+        }
+
+        ListNode headA = head1;
+        ListNode headB = head2;
+
+        while (headA != headB) {
+            if (headA == null) {
+                headA = head2;
+            } else {
+                headA = headA.next;
+            }
+
+            if (headB == null) {
+                headB = head1;
+            } else {
+                headB = headB.next;
+            }
+        }
+
+        return headA;
     }
 }
