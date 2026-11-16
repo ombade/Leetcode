@@ -8,14 +8,14 @@
  */
 class Solution {
     public void deleteNode(ListNode node) {
-        // while(node.next != null)
-        // {
-
-        // slect the next node to delete copy of cuurent not value to be delte add ther the not to be delete value and do according
-            node.val = node.next.val;
-            node.next = node.next.next;
-// 
-        // }
-        // node.next = null;
+        ListNode n1 = node ;
+          ListNode n2 = node ;
+        while(n1.next != null)
+        {
+            n1.val = n1.next.val;
+            n2 = n1;
+            n1 = n1.next;
+        }
+        n2.next = null;
     }
 }
