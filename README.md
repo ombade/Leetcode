@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0383-ransom-note](https://github.com/ombade/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ombade/Leetcode/tree/master/0392-is-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ombade/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [1021-remove-outermost-parentheses](https://github.com/ombade/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/ombade/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/ombade/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/ombade/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0042-trapping-rain-water](https://github.com/ombade/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/ombade/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/ombade/Leetcode/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/ombade/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -410,4 +412,5 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ombade/Leetcode/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/ombade/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
